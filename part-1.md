@@ -54,4 +54,45 @@ C:\Program Files\Java\jdk1.8.0_181\bin
 javac -version
 ```
 
-## IDE<a name="ide"></a>
+
+## IDE (Integrated Development Environment)<a name="ide"></a>
+IDE adalah sebuah software untuk memudahkan programmer dalam menulis/membuat program.
+
+> Kenapa ga pakai notepad aja atau microsoft office aja?
+
+Banyak fitur yang disediakan oleh IDE, seperti `highlight` yang membuat kode kamu jadi lebih mudah dibaca, `debuging` memudahkan kamu mencari error, `auto complete` mempercepat kamu menulis kode, dll. 
+
+Di luar sana ada banyak sekali IDE `Java` yang tersedia dari yang gratis hingga yang berbayar. Tapi disini kami merekomendasikan yang gratis aja yaa..
+1. [Eclipse](https://www.eclipse.org/)
+2. [Netbean](https://netbeans.org/)
+3. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+4. [Visual Studio Code](https://code.visualstudio.com/)
+
+Kamu bisa pilih **salah satu** dari IDE di atas yang menurut kamu nyaman. Jika sudah di install IDE nya, **Mari kita berperaaaang..**
+
+## Program JAVA **#pertama**
+JDK nya sudah kalian install, berikutnya yuk kita mulai ngoding java.
+1. Buka text editor pada komputer kamu, notepad(windows) / gedit(linux)
+2. Tulis kode seperti dibawah, dan simpan dengan nama `Hello.java`
+```java
+class Hello{
+  public static void main(String[] args) {
+    System.out.println("Hello World")
+  }
+}
+```
+3. Buka terminal atau command promt, pindah ke direktori kamu menyimpan file java kamu
+4. Compile program java yang tadi kamu buat
+```
+javac Hello.java
+```
+5. Jalankan program hasil compile yang tadi
+```
+java Hello
+```
+6. Jika berhasil, tampilannya akan seperti ini
+```
+Hello World
+```
+
+Selamat anda sudah menjadi programmer java yeeeeeaaaaaay :smile:
