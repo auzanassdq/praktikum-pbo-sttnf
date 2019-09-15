@@ -58,7 +58,7 @@ javac -version
 ## IDE (Integrated Development Environment)<a name="ide"></a>
 IDE adalah sebuah software untuk memudahkan programmer dalam menulis/membuat program.
 
-> Kenapa ga pakai notepad aja atau microsoft office aja?
+*Kenapa ga pakai notepad aja atau microsoft office aja?*
 
 Banyak fitur yang disediakan oleh IDE, seperti `highlight` yang membuat kode kamu jadi lebih mudah dibaca, `debuging` memudahkan kamu mencari error, `auto complete` mempercepat kamu menulis kode, dll. 
 
