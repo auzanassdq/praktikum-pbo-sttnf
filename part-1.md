@@ -1,15 +1,13 @@
 # Part 1 - Instalasi
 
-Sebelum kita terjun bebas, siapin dulu parasutnya cuuy.. sama halnya pemrograman `Java`, kita memerlukan tools atau alat yang di perlukan untuk menjalan program `Java` itu sendiri. Tools yang di perlukan adalah :
+Sebelum kita terjun bebas, siapin dulu parasutnya cuuy.. Pemrograman `Java` juga seperti itu looh. Sebelum kita memulai menjadi seorang java programmer, kita memerlukan tools atau alat yang di perlukan untuk menjalankan program `Java` itu sendiri. Tools yang di perlukan adalah :
 
 - [JDK (Java Development Kit)](#jdk)
 - [IDE (Integrated Development Environment)](#ide)
 
 
 ## JDK (Java Development Kit)<a name="jdk"></a>
-JDK adalah Tools yang digunakan untuk mengembangkan dan menjalankan aplikasi java pada sistem operasi Windows/Linux
-
-Tanpa JDK, kita tidak bisa menjalankan (mengkompilasi) aplikasi `Java`. 
+JDK adalah Tools yang digunakan untuk mengembangkan dan menjalankan aplikasi `Java` pada sistem operasi Windows/Linux. Tanpa JDK, kita tidak bisa menjalankan (mengkompilasi) aplikasi `Java` dikomputer kita.
 
 ### Instalasi JDK (Linux)
 1. buka terminal
@@ -56,7 +54,7 @@ javac -version
 
 
 ## IDE (Integrated Development Environment)<a name="ide"></a>
-IDE adalah sebuah software untuk memudahkan programmer dalam menulis/membuat program.
+IDE adalah sebuah software untuk memudahkan programmer dalam menulis/membuat program. Seperti halnya kamu membutuhkan libre/office untuk menusun dokumen, kamu akan membutuhkan IDE ini untuk membuat program.
 
 *Kenapa ga pakai notepad aja atau microsoft office aja?*
 
@@ -70,7 +68,7 @@ Di luar sana ada banyak sekali IDE `Java` yang tersedia dari yang gratis hingga 
 
 Kamu bisa pilih **salah satu** dari IDE di atas yang menurut kamu nyaman. Jika sudah di install IDE nya, **Mari kita berperaaaang..**
 
-## Program JAVA **#pertama**
+## Program JAVA **`#pertama`**
 JDK nya sudah kalian install, berikutnya yuk kita mulai ngoding java.
 1. Buka text editor pada komputer kamu, notepad(windows) / gedit(linux)
 2. Tulis kode seperti dibawah, dan simpan dengan nama `Hello.java`
@@ -81,7 +79,7 @@ class Hello{
   }
 }
 ```
-3. Buka terminal atau command promt, pindah ke direktori kamu menyimpan file java kamu
+3. Buka terminal atau command promt, pindah ke direktori file java yang tadi kamu simpan
 4. Compile program java yang tadi kamu buat
 ```
 javac Hello.java
@@ -95,4 +93,4 @@ java Hello
 Hello World
 ```
 
-Selamat anda sudah menjadi programmer java yeeeeeaaaaaay :smile:
+Selamat kamu sudah menjadi programmer java yeeeeeaaaaaay :smile:
