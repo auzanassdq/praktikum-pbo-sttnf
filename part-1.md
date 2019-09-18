@@ -75,7 +75,7 @@ JDK nya sudah kalian install, berikutnya yuk kita mulai ngoding java.
 ```java
 class Hello{
   public static void main(String[] args) {
-    System.out.println("Hello World")
+    System.out.println("Hello World");
   }
 }
 ```
